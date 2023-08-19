@@ -1,8 +1,8 @@
 {
-  "8-19-23-5:32": {
-    "images": "https://github.com/Redux-Client/AnnouncementsRepo/blob/main/image%201.png?raw=true",
-    "title": "Redux Client Beta!",
-    "brief": "We are proud to announce that after months of hard work and development Redux is finally ready to be out in beta access to ....",
-    "link": "https://github.com/Redux-Client/AnnouncementsRepo"
-  }
+	"8-19-23-5:32": {
+		"images": "https://github.com/Redux-Client/AnnouncementsRepo/blob/main/image%201.png?raw=true",
+		"title": "Redux Client Beta!",
+		"brief": "We are proud to announce that after months of hard work and development Redux is finally ready to be out in beta access to ....",
+		"link": "https://github.com/Redux-Client/AnnouncementsRepo"
+	}
 }
